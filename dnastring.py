@@ -4,7 +4,7 @@
 
 #G to C
 #T to A
-
+# this code allows to calculate the GC content of a sequence from a given fasta file
 class NucleotideString:
     base_complement = {'G': 'C', 'C':'G',
                        'A': 'T', 'T': 'A'}
