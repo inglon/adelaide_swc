@@ -162,6 +162,10 @@ def dna_starts_with(sequence, tag):
     raise unknownBaseException()       
 
 
-
+#####################################################
+# Version control
+#####################################################
+#Git, a version control system
+#See etherpad.
 
 
